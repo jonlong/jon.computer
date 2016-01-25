@@ -1543,7 +1543,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #407e32;
+  background: #ff8513;
 }
 .sidebar-nav {
   margin: 0 0 20px;
@@ -1992,25 +1992,14 @@ pre .javascript .function {
 .page-post-detail .comments {
   overflow: hidden;
 }
-.custom-logo .site-meta-headline {
-  text-align: center;
+.custom-logo-site-title .brand {
+  background: #ff5537;
 }
-.custom-logo .brand {
-  background: none;
+.custom-logo-site-title .brand:hover {
+  background: #ff775f;
 }
-.custom-logo .site-title {
-  margin: 10px auto 0;
-  font-size: 24px;
-  color: #222;
-}
-.custom-logo .site-title a {
-  border: none;
-}
-.custom-logo-image {
-  margin: 0 auto;
-  padding: 5px;
-  max-width: 150px;
-  background: #fff;
+.headband {
+  background: #ff5537;
 }
 @media (max-width: 767px) {
   .site-nav {
