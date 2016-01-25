@@ -70,6 +70,9 @@ theme_config:
   menu_icons:
     enable: false
   use_motion: false
+  # scheme: Muse
+  scheme: Jon
+  #scheme: Pisces
 
 ## Plugins: https://hexo.io/plugins/
 plugins:
